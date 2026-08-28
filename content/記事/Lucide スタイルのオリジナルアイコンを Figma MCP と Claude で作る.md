@@ -49,11 +49,11 @@ Claude は Lucide のスタイル（24×24px・strokeWidth 2・丸キャップ�
 
 Lucide の `bike`（参照用）：
 
-![[figma-icon-bike.svg]]
+![](<Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る/figma-icon-bike.svg>)
 
 Claude が生成した `bicycle`：
 
-![[figma-icon-bicycle.svg]]
+![](<Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る/figma-icon-bicycle.svg>)
 
 ### 与信申請アイコン
 
@@ -65,7 +65,7 @@ Claude が生成した `bicycle`：
 
 Claude が生成した `credit-application`（与信申請）：
 
-![[figma-icon-credit-application.svg]]
+![](<Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る/figma-icon-credit-application.svg>)
 
 ## 実際の用途
 
