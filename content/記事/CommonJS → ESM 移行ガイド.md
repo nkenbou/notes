@@ -1,4 +1,5 @@
 ---
+title: "CommonJS → ESM 移行ガイド"
 permalink: 7913d630a3e4
 tags:
   - NextJS
@@ -9,8 +10,6 @@ tags:
   - TypeScript
   - jest-prisma
 ---
-# CommonJS → ESM 移行ガイド
-
 ## 1. 概要・背景
 
 ### 移行の動機

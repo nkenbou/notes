@@ -1,4 +1,5 @@
 ---
+title: "Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る"
 permalink: a3f8c2d91e7b
 tags:
   - Figma
@@ -6,8 +7,6 @@ tags:
   - アイコン
   - OOUI
 ---
-# Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る
-
 ## きっかけ
 
 「Nani翻訳」の作者 @catnose99 さんが X でこんな投稿をしていました。

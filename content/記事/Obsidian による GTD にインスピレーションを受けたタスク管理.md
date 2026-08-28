@@ -1,10 +1,9 @@
 ---
+title: "Obsidian による GTD にインスピレーションを受けたタスク管理"
 permalink: 23a43d465cc1
 tags:
   - Obsidian
 ---
-# Obsidian による GTD にインスピレーションを受けたタスク管理
-
 ## はじめに
 
 [「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ](https://www.m3tech.blog/entry/2025/06/29/110000) にあった、 Obsidian の query による [検索結果の埋め込み](https://publish.obsidian.md/help-ja/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3/%E6%A4%9C%E7%B4%A2#%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%E3%81%AE%E5%9F%8B%E3%82%81%E8%BE%BC%E3%81%BF) で Markdown のタスクを1箇所に集めるアイデアがとても便利に感じました。それと、GTD (Getting Things Done) を組み合わせることで、めんどくさいタスク管理と活動の記録の労力を最小化することで、滞りがちな日々のアウトプットを増やしていけるのではと思いました。

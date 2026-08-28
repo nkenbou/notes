@@ -1,11 +1,10 @@
 ---
+title: "eslint-plugin-import-access で外部パッケージからの import を制御できるか調査"
 permalink: 665da73517c2
 tags:
   - eslint-plugin-import-access
   - Turborepo
 ---
-# eslint-plugin-import-access で外部パッケージからの import を制御できるか調査
-
 ## 1. 調査目的
 
 pnpm workspace monorepo において、**別パッケージ（外部パッケージ）からの import を `eslint-plugin-import-access` で制御できるか**を検証する。
