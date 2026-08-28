@@ -1,5 +1,5 @@
 ---
-title: "Domain-Driven Hexagon"
+title: "読書メモ: Domain-Driven Hexagon"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: 3ca5843fab1f
@@ -11,8 +11,6 @@ URL: https://github.com/Sairyss/domain-driven-hexagon
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: # Domain-Driven Hexagon
-
 - **URL:** [# Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 - **著者:** @Sairyss
 

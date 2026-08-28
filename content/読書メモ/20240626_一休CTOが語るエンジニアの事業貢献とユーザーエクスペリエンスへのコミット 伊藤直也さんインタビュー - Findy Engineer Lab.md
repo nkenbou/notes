@@ -1,5 +1,5 @@
 ---
-title: "一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab"
+title: "読書メモ: 一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab"
 created: 2024-06-26
 modified: 2024-06-26
 permalink: f27571d5af6c
@@ -12,8 +12,6 @@ URL: https://findy-code.io/engineer-lab/naoya_ito
 開始日:
 終了日:
 ---
-# 読書メモ: 一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab
-
 - **URL:** [一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab](https://findy-code.io/engineer-lab/naoya_ito)
 - **著者:** 伊藤直也 (@naoya_ito)
 - **公開日:** 2024-06-26

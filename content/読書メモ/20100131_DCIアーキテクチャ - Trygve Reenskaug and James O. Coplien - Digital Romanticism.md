@@ -1,5 +1,5 @@
 ---
-title: "DCI アーキテクチャ - Trygve Reenskaug and James O. Coplien - Digital Romanticism"
+title: "読書メモ: DCI アーキテクチャ - Trygve Reenskaug and James O. Coplien - Digital Romanticism"
 created: 2010-01-31
 modified: 2010-01-31
 permalink: d2cf8ecf3496
@@ -12,8 +12,6 @@ URL: https://digitalsoul.hatenadiary.org/entry/20100131/1264925022
 開始日:
 終了日:
 ---
-# 読書メモ: DCI アーキテクチャ - Trygve Reenskaug and James O. Coplien - Digital Romanticism
-
 - **URL:** [DCI アーキテクチャ - Trygve Reenskaug and James O. Coplien - Digital Romanticism](https://digitalsoul.hatenadiary.org/entry/20100131/1264925022)
 - **著者:** @digitalsoul0124
 - **公開日:** 2010-01-31

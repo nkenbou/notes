@@ -1,5 +1,5 @@
 ---
-title: "Playwright MCPを使ってE2Eテストを楽に書く"
+title: "読書メモ: Playwright MCPを使ってE2Eテストを楽に書く"
 created: 2025-09-10
 modified: 2025-09-10
 permalink: 30064f4989f8
@@ -14,8 +14,6 @@ URL: https://zenn.dev/knowledgework/articles/d859f65a77fc3c
 開始日:
 終了日:
 ---
-# 読書メモ: Playwright MCPを使ってE2Eテストを楽に書く
-
 - **URL:** [Playwright MCPを使ってE2Eテストを楽に書く](https://zenn.dev/knowledgework/articles/d859f65a77fc3c)
 - **著者:** @zi
 - **公開日:** 2025-09-10

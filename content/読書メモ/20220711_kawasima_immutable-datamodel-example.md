@@ -1,5 +1,5 @@
 ---
-title: "複雑さを分解するためのドメインモデル"
+title: "読書メモ: 複雑さを分解するためのドメインモデル"
 created: 2022-07-11
 modified: 2022-07-11
 permalink: 920ac7a1d653
@@ -13,8 +13,6 @@ URL: https://github.com/kawasima/immutable-datamodel-example
 開始日:
 終了日:
 ---
-# 読書メモ: 複雑さを分解するためのドメインモデル
-
 - **URL:** [複雑さを分解するためのドメインモデル](https://github.com/kawasima/immutable-datamodel-example)
 - **著者:** 川島義隆 (@kawasima)
 - **公開日:** 2022-07-11

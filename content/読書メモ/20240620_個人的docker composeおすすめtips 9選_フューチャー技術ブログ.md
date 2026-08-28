@@ -1,5 +1,5 @@
 ---
-title: "個人的docker composeおすすめtips 9選 | フューチャー技術ブログ"
+title: "読書メモ: 個人的docker composeおすすめtips 9選 | フューチャー技術ブログ"
 created: 2024-06-20
 modified: 2024-06-20
 permalink: ae915ac6c52c
@@ -12,8 +12,6 @@ URL: https://future-architect.github.io/articles/20240620a/
 開始日:
 終了日:
 ---
-# 読書メモ: 個人的docker composeおすすめtips 9選 | フューチャー技術ブログ
-
 - **URL:** [個人的docker composeおすすめtips 9選 | フューチャー技術ブログ](https://future-architect.github.io/articles/20240620a/)
 - **著者:** 市川燿
 - **公開日:** 2024-06-20

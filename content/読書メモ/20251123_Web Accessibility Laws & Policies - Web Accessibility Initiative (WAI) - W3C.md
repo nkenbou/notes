@@ -1,5 +1,5 @@
 ---
-title: "Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C"
+title: "読書メモ: Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: 778cfb16a9f0
@@ -12,8 +12,6 @@ URL: https://www.w3.org/WAI/policies/
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C
-
 - **URL:** [Web Accessibility Laws & Policies | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/policies/)
 - **著者:** @W3C
 

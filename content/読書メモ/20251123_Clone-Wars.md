@@ -1,5 +1,5 @@
 ---
-title: "Clone-Wars"
+title: "読書メモ: Clone-Wars"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: a483c7a58600
@@ -11,8 +11,6 @@ URL: https://github.com/GorvGoyl/clone-wars
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: Clone-Wars
-
 - **URL:** [Clone-Wars](https://github.com/GorvGoyl/clone-wars)
 - **著者:** Gourav (@GorvGoyl)
 

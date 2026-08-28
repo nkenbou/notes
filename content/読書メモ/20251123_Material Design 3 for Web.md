@@ -1,5 +1,5 @@
 ---
-title: "Material Design 3 for Web"
+title: "読書メモ: Material Design 3 for Web"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: a67224fd66da
@@ -12,8 +12,6 @@ URL: https://m3.material.io/develop/web
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: Material Design 3 for Web
-
 - **URL:** [Material Design 3 for Web](https://m3.material.io/develop/web)
 - **著者:** @Google
 

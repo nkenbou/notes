@@ -1,5 +1,5 @@
 ---
-title: "Amazon DynamoDB を使った CQRS イベントストアの構築 | Amazon Web Services ブログ"
+title: "読書メモ: Amazon DynamoDB を使った CQRS イベントストアの構築 | Amazon Web Services ブログ"
 created: 2022-10-31
 modified: 2022-10-31
 permalink: 09c758b6dd29
@@ -12,8 +12,6 @@ URL: https://aws.amazon.com/jp/blogs/news/build-a-cqrs-event-store-with-amazon-d
 開始日:
 終了日:
 ---
-# 読書メモ: Amazon DynamoDB を使った CQRS イベントストアの構築 | Amazon Web Services ブログ
-
 - **URL:** [Amazon DynamoDB を使った CQRS イベントストアの構築 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/build-a-cqrs-event-store-with-amazon-dynamodb/)
 - **著者:** @AWS
 - **公開日:** 2022-10-31

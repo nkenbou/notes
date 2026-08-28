@@ -1,5 +1,5 @@
 ---
-title: "かんたん！大型プロジェクトをPERTで把握する知見 - pixiv inside"
+title: "読書メモ: かんたん！大型プロジェクトをPERTで把握する知見 - pixiv inside"
 created: 2018-12-12
 modified: 2018-12-12
 permalink: 2be464e57f7c
@@ -13,8 +13,6 @@ URL: https://inside.pixiv.blog/saki/5823
 開始日:
 終了日:
 ---
-# 読書メモ: かんたん！大型プロジェクトをPERTで把握する知見 - pixiv inside
-
 - **URL:** [かんたん！大型プロジェクトをPERTで把握する知見 - pixiv inside](https://inside.pixiv.blog/saki/5823)
 - **著者:** saki (@yensaki)
 - **公開日:** 2018-12-12

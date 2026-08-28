@@ -1,5 +1,5 @@
 ---
-title: "Ports & Adapters パターン：Hexagonal Architecture Explained を手元に"
+title: "読書メモ: Ports & Adapters パターン：Hexagonal Architecture Explained を手元に"
 created: 2025-10-04
 modified: 2025-10-04
 permalink: fdc057ff5315
@@ -12,8 +12,6 @@ URL: https://zenn.dev/kkatou/articles/ports-and-adapters-explained
 開始日:
 終了日:
 ---
-# 読書メモ: Ports & Adapters パターン：Hexagonal Architecture Explained を手元に
-
 - **URL:** [Ports & Adapters パターン：Hexagonal Architecture Explained を手元に](https://zenn.dev/kkatou/articles/ports-and-adapters-explained)
 - **著者:** KKatou7209
 - **公開日:** 2025-10-04

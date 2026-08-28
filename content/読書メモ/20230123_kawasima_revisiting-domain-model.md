@@ -1,5 +1,5 @@
 ---
-title: "Revisiting Domain Model"
+title: "読書メモ: Revisiting Domain Model"
 created: 2023-01-23
 modified: 2023-01-23
 permalink: d708fe348cba
@@ -14,8 +14,6 @@ URL: https://github.com/kawasima/revisiting-domain-model
 開始日:
 終了日:
 ---
-# 読書メモ: Revisiting Domain Model
-
 - **URL:** [Revisiting Domain Model](https://github.com/kawasima/revisiting-domain-model)
 - **著者:** 川島義隆 (@kawasima)
 - **公開日:** 2023-01-23

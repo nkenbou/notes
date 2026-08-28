@@ -1,5 +1,5 @@
 ---
-title: "「いつ終わる？」から「何パーセントで終わる？」でコミュニケーションするアジャイルプロジェクトマネジメント Streamlit - Qiita"
+title: "読書メモ: 「いつ終わる？」から「何パーセントで終わる？」でコミュニケーションするアジャイルプロジェクトマネジメント Streamlit - Qiita"
 created: 2024-12-17
 modified: 2024-12-17
 permalink: 25981f099a7f
@@ -14,8 +14,6 @@ URL: https://qiita.com/hirokidaichi/items/51bfd7fa9e7a4a096d8b
 開始日:
 終了日:
 ---
-# 読書メモ: 「いつ終わる？」から「何パーセントで終わる？」でコミュニケーションするアジャイルプロジェクトマネジメント Streamlit - Qiita
-
 - **URL:** [「いつ終わる？」から「何パーセントで終わる？」でコミュニケーションするアジャイルプロジェクトマネジメント Streamlit - Qiita](https://qiita.com/hirokidaichi/items/51bfd7fa9e7a4a096d8b)
 - **著者:** @hirokidaichi
 - **公開日:** 2024-12-17

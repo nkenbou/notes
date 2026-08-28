@@ -1,5 +1,5 @@
 ---
-title: "EventStoreが利用するDynamoDBのテーブル構成"
+title: "読書メモ: EventStoreが利用するDynamoDBのテーブル構成"
 created: 2023-09-18
 modified: 2023-09-18
 permalink: 1ca321c3e9db
@@ -12,8 +12,6 @@ URL: https://github.com/j5ik2o/event-store-adapter-js/blob/main/docs/DATABASE_SC
 開始日:
 終了日:
 ---
-# 読書メモ: EventStoreが利用するDynamoDBのテーブル構成
-
 - **URL:** [EventStoreが利用するDynamoDBのテーブル構成](https://github.com/j5ik2o/event-store-adapter-js/blob/main/docs/DATABASE_SCHEMA.ja.md)
 - **著者:** 加藤潤一 (
 @j5ik2o)

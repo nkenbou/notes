@@ -1,5 +1,5 @@
 ---
-title: "ABOUT FACE　インタラクションデザインの本質"
+title: "読書メモ: ABOUT FACE　インタラクションデザインの本質"
 created: 2026-03-21
 modified: 2026-03-21
 permalink: b15a721e90fe
@@ -13,8 +13,6 @@ URL: https://book.mynavi.jp/ec/products/detail/id=143962
 開始日: 2025-09-15
 終了日: 2026-03-21
 ---
-# 読書メモ: ABOUT FACE　インタラクションデザインの本質
-
 - **URL:** [ABOUT FACE　インタラクションデザインの本質](https://book.mynavi.jp/ec/products/detail/id=143962)
 - **著者:** 上野 学 (@manabuueno)
 - **公開日:** 2024-08-19

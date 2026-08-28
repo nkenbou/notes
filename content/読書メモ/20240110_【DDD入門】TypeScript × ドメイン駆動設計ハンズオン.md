@@ -1,5 +1,5 @@
 ---
-title: "【DDD入門】TypeScript × ドメイン駆動設計ハンズオン"
+title: "読書メモ: 【DDD入門】TypeScript × ドメイン駆動設計ハンズオン"
 created: 2024-01-10
 modified: 2024-01-10
 permalink: 65ac5a89a154
@@ -13,8 +13,6 @@ URL: https://zenn.dev/yamachan0625/books/ddd-hands-on
 開始日:
 終了日:
 ---
-# 読書メモ: 【DDD入門】TypeScript × ドメイン駆動設計ハンズオン
-
 - **URL:** [【DDD入門】TypeScript × ドメイン駆動設計ハンズオン](https://zenn.dev/yamachan0625/books/ddd-hands-on)
 - **著者:** ヤマユ (@yamayu_ddd)
 - **公開日:** 2024-01-10

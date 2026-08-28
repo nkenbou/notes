@@ -1,5 +1,5 @@
 ---
-title: "Parse, don’t validate"
+title: "読書メモ: Parse, don’t validate"
 created: 2019-11-05
 modified: 2019-11-05
 permalink: c9c6d640bf98
@@ -13,8 +13,6 @@ URL: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
 開始日:
 終了日:
 ---
-# 読書メモ: Parse, don’t validate
-
 - **URL:** [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - **著者:** @lexi_lambda
 - **公開日:** 2019-11-05

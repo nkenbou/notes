@@ -1,5 +1,5 @@
 ---
-title: "「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ"
+title: "読書メモ: 「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ"
 created: 2025-06-29
 modified: 2025-06-29
 permalink: 099dd045dd52
@@ -12,8 +12,6 @@ URL: https://www.m3tech.blog/entry/2025/06/29/110000
 開始日:
 終了日:
 ---
-# 読書メモ: 「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ
-
 - **URL:** [「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ](https://www.m3tech.blog/entry/2025/06/29/110000)
 - **著者:** 池嶋 (@mski_iksm)
 - **公開日:** 2025-06-29

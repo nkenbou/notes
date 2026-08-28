@@ -1,5 +1,5 @@
 ---
-title: "Ory HydraでOAuth2認可サーバーを構築する - じゃあ、おうちで学べる"
+title: "読書メモ: Ory HydraでOAuth2認可サーバーを構築する - じゃあ、おうちで学べる"
 created: 2026-01-30
 modified: 2026-01-30
 permalink: fe17c165e713
@@ -13,8 +13,6 @@ URL: https://syu-m-5151.hatenablog.com/entry/2026/01/04/133007
 開始日: 2026-01-30
 終了日: 2026-01-30
 ---
-# 読書メモ: Ory HydraでOAuth2認可サーバーを構築する - じゃあ、おうちで学べる
-
 - **URL:** [Ory HydraでOAuth2認可サーバーを構築する - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/01/04/133007)
 - **著者:** @nwiizo
 - **公開日:** 2026-01-04

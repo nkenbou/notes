@@ -1,5 +1,5 @@
 ---
-title: "React Server Components と GraphQL のアナロジー | by Yosuke Kurami | Medium"
+title: "読書メモ: React Server Components と GraphQL のアナロジー | by Yosuke Kurami | Medium"
 created: 2023-12-25
 modified: 2023-12-25
 permalink: 73c2367f7c49
@@ -13,8 +13,6 @@ URL: https://quramy.medium.com/react-server-components-%E3%81%A8-graphql-%E3%81%
 開始日:
 終了日:
 ---
-# 読書メモ: React Server Components と GraphQL のアナロジー | by Yosuke Kurami | Medium
-
 - **URL:** [React Server Components と GraphQL のアナロジー | by Yosuke Kurami | Medium](https://quramy.medium.com/react-server-components-%E3%81%A8-graphql-%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B8%E3%83%BC-89b3f5f41a01)
 - **著者:** @Quramy
 - **公開日:** 2023-12-25

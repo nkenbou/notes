@@ -1,5 +1,5 @@
 ---
-title: "HTML だけで Shadow DOM を構築するための宣言型 Shadow DOM"
+title: "読書メモ: HTML だけで Shadow DOM を構築するための宣言型 Shadow DOM"
 created: 2024-10-19
 modified: 2024-10-19
 permalink: 1d687f509d8d
@@ -12,8 +12,6 @@ URL: https://azukiazusa.dev/blog/declarative-shadow-dom/
 開始日:
 終了日:
 ---
-# 読書メモ: HTML だけで Shadow DOM を構築するための宣言型 Shadow DOM
-
 - **URL:** [HTML だけで Shadow DOM を構築するための宣言型 Shadow DOM](https://azukiazusa.dev/blog/declarative-shadow-dom/)
 - **著者:** azukiazusa (@azukiazusa9)
 - **公開日:** 2024-10-19

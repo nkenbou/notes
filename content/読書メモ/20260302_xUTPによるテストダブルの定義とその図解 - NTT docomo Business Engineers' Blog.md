@@ -1,5 +1,5 @@
 ---
-title: "xUTPによるテストダブルの定義とその図解 - NTT docomo Business Engineers' Blog"
+title: "読書メモ: xUTPによるテストダブルの定義とその図解 - NTT docomo Business Engineers' Blog"
 created: 2026-03-02
 modified: 2026-03-02
 permalink: 84c428e8cc44
@@ -12,8 +12,6 @@ URL: https://engineers.ntt.com/entry/20251208_advent-calendar-day8/entry
 開始日: 2026-03-02
 終了日: 2026-03-02
 ---
-# 読書メモ: xUTPによるテストダブルの定義とその図解 - NTT docomo Business Engineers' Blog
-
 - **URL:** [xUTPによるテストダブルの定義とその図解 - NTT docomo Business Engineers' Blog](https://engineers.ntt.com/entry/20251208_advent-calendar-day8/entry)
 - **公開日:** 2025-12-08
 

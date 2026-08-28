@@ -1,5 +1,5 @@
 ---
-title: "顧客のBurning needsを解決する | chikathreesix"
+title: "読書メモ: 顧客のBurning needsを解決する | chikathreesix"
 created: 2019-12-09
 modified: 2019-12-09
 permalink: fffef4570fe3
@@ -12,8 +12,6 @@ URL: https://chikathreesix.com/post/burning-needs
 開始日:
 終了日:
 ---
-# 読書メモ: 顧客のBurning needsを解決する | chikathreesix
-
 - **URL:** [顧客のBurning needsを解決する | chikathreesix](https://chikathreesix.com/post/burning-needs)
 - **著者:** @chikathreesix
 - **公開日:** 2019-12-09

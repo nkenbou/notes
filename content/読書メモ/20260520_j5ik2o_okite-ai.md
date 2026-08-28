@@ -1,5 +1,5 @@
 ---
-title: "Skills | j5ik2o/okite-ai"
+title: "読書メモ: Skills | j5ik2o/okite-ai"
 created: 2026-05-20
 modified: 2026-05-20
 permalink: dfd33499b5be
@@ -13,8 +13,6 @@ URL: https://github.com/j5ik2o/okite-ai/blob/main/docs/skills.md
 開始日: 2026-05-20
 終了日: 2026-05-20
 ---
-# 読書メモ: Skills | j5ik2o/okite-ai
-
 - **URL:** [okite-ai/docs/skills.md at main · j5ik2o/okite-ai](https://github.com/j5ik2o/okite-ai/blob/main/docs/skills.md)
 - **著者:** j5ik2o
 - **公開日:** 

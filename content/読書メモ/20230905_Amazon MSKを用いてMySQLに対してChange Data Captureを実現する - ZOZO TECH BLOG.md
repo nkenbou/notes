@@ -1,5 +1,5 @@
 ---
-title: "Amazon MSKを用いてMySQLに対してChange Data Captureを実現する - ZOZO TECH BLOG"
+title: "読書メモ: Amazon MSKを用いてMySQLに対してChange Data Captureを実現する - ZOZO TECH BLOG"
 created: 2023-09-05
 modified: 2023-09-05
 permalink: c007dd91e24f
@@ -13,8 +13,6 @@ URL: https://techblog.zozo.com/entry/change-data-capture-for-mysql-using-amazon-
 開始日:
 終了日:
 ---
-# 読書メモ: Amazon MSKを用いてMySQLに対してChange Data Captureを実現する - ZOZO TECH BLOG
-
 - **URL:** [Amazon MSKを用いてMySQLに対してChange Data Captureを実現する - ZOZO TECH BLOG](https://techblog.zozo.com/entry/change-data-capture-for-mysql-using-amazon-msk)
 - **著者:** @ZOZO
 - **公開日:** 2023-09-05

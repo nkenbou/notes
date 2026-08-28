@@ -1,5 +1,5 @@
 ---
-title: "react-to-web-component を使って React コンポーネントを Web Components に変換する"
+title: "読書メモ: react-to-web-component を使って React コンポーネントを Web Components に変換する"
 created: 2024-10-20
 modified: 2024-10-20
 permalink: d6911bbb4448
@@ -13,8 +13,6 @@ URL: https://azukiazusa.dev/blog/react-to-web-component/
 開始日:
 終了日:
 ---
-# 読書メモ: react-to-web-component を使って React コンポーネントを Web Components に変換する
-
 - **URL:** [react-to-web-component を使って React コンポーネントを Web Components に変換する](https://azukiazusa.dev/blog/react-to-web-component/)
 - **著者:** azukiazusa (@azukiazusa9)
 - **公開日:** 2024-10-20

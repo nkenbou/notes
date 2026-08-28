@@ -1,5 +1,5 @@
 ---
-title: "Domain Event | dondakeshimoの丸太"
+title: "読書メモ: Domain Event | dondakeshimoの丸太"
 created: 2024-05-11
 modified: 2024-05-11
 permalink: 31bdf56a9a9e
@@ -13,8 +13,6 @@ URL: https://www.dondakeshimo.com/posts/2024-05-06-domain-event-design
 開始日:
 終了日:
 ---
-# 読書メモ: Domain Event | dondakeshimoの丸太
-
 - **URL:** [Domain Event | dondakeshimoの丸太](https://www.dondakeshimo.com/posts/2024-05-06-domain-event-design)
 - **著者:** 下村拓 (@dondakeshimo)
 - **公開日:** 2024-05-11

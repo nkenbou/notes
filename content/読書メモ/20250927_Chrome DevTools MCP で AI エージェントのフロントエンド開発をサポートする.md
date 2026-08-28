@@ -1,5 +1,5 @@
 ---
-title: "Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする"
+title: "読書メモ: Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする"
 created: 2025-09-27
 modified: 2025-09-27
 permalink: 296f1960ee9a
@@ -14,8 +14,6 @@ URL: https://azukiazusa.dev/blog/chrome-devtools-mcp/
 開始日:
 終了日:
 ---
-# 読書メモ: Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする
-
 - **URL:** [Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする](https://azukiazusa.dev/blog/chrome-devtools-mcp/)
 - **著者:** azukiazusa (@azukiazusa9)
 - **公開日:** 2025-09-27

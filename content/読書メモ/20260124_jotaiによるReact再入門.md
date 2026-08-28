@@ -1,5 +1,5 @@
 ---
-title: "jotaiによるReact再入門"
+title: "読書メモ: jotaiによるReact再入門"
 created: 2026-01-24
 modified: 2026-01-24
 permalink: 29dbcc89d579
@@ -12,9 +12,6 @@ URL: https://zenn.dev/uhyo/books/learn-react-with-jotai
 開始日: 2026-01-09
 終了日: 2026-01-24
 ---
-
-# 読書メモ: jotaiによるReact再入門
-
 - **URL:** [jotaiによるReact再入門](https://zenn.dev/uhyo/books/learn-react-with-jotai)
 - **著者:** 鈴木僚太 (@uhyo)
 - **公開日:** 2026-01-03

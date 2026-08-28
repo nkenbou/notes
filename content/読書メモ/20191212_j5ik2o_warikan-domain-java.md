@@ -1,5 +1,5 @@
 ---
-title: "飲み会の割り勘ドメイン"
+title: "読書メモ: 飲み会の割り勘ドメイン"
 created: 2019-12-12
 modified: 2019-12-12
 permalink: 180bda2c4de5
@@ -12,8 +12,6 @@ URL: https://github.com/j5ik2o/warikan-domain-java
 開始日:
 終了日:
 ---
-# 読書メモ: 飲み会の割り勘ドメイン
-
 - **URL:** [飲み会の割り勘ドメイン](https://github.com/j5ik2o/warikan-domain-java)
 - **著者:** 加藤潤一 (
 @j5ik2o)

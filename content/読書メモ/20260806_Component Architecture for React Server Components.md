@@ -1,5 +1,5 @@
 ---
-title: "Component Architecture for React Server Components"
+title: "読書メモ: Component Architecture for React Server Components"
 created: 2026-08-06
 modified: 2026-08-06
 permalink: 59cf676dc1cd
@@ -13,8 +13,6 @@ URL: https://aurorascharff.no/posts/component-architecture-for-react-server-comp
 開始日: 2026-08-06
 終了日: 2026-08-06
 ---
-# 読書メモ: Component Architecture for React Server Components
-
 - **URL:** [Component Architecture for React Server Components](https://aurorascharff.no/posts/component-architecture-for-react-server-components/)
 - **著者:** Aurora Scharff
 - **公開日:** 2026-05-22

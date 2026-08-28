@@ -1,5 +1,5 @@
 ---
-title: "CSS Grid Areas"
+title: "読書メモ: CSS Grid Areas"
 created: 2024-07-20
 modified: 2024-07-20
 permalink: 14de50a97b9a
@@ -12,8 +12,6 @@ URL: https://ishadeed.com/article/css-grid-area/
 開始日:
 終了日:
 ---
-# 読書メモ: CSS Grid Areas
-
 - **URL:** [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 - **著者:** @shadeed9
 

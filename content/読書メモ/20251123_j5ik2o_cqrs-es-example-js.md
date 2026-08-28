@@ -1,5 +1,5 @@
 ---
-title: "j5ik2o/cqrs-es-example-js"
+title: "読書メモ: j5ik2o/cqrs-es-example-js"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: f5c5a9c3bcb5
@@ -10,8 +10,6 @@ URL: https://github.com/j5ik2o/cqrs-es-example-js
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: j5ik2o/cqrs-es-example-js
-
 - **URL:** [j5ik2o/cqrs-es-example-js](https://github.com/j5ik2o/cqrs-es-example-js)
 - **著者:** 加藤潤一 (
 @j5ik2o)

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Event Sourcing | Kurrent"
+title: "読書メモ: Introduction to Event Sourcing | Kurrent"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: 553a5b6df15c
@@ -12,8 +12,6 @@ URL: https://www.kurrent.io/event-sourcing
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: Introduction to Event Sourcing | Kurrent
-
 - **URL:** [Introduction to Event Sourcing | Kurrent](https://www.kurrent.io/event-sourcing)
 - **著者:** @Kurrent
 

@@ -1,5 +1,5 @@
 ---
-title: "オブジェクト指向のリ・オリエンテーション～歴史を振り返り、AI時代に向きなおる～ - Speaker Deck"
+title: "読書メモ: オブジェクト指向のリ・オリエンテーション～歴史を振り返り、AI時代に向きなおる～ - Speaker Deck"
 created: 2024-03-29
 modified: 2024-03-29
 permalink: 9776d3d9eec8
@@ -13,8 +13,6 @@ URL: https://speakerdeck.com/hanyudaeiiti/obuziekutozhi-xiang-noriorientesiyon-l
 開始日:
 終了日:
 ---
-# 読書メモ: オブジェクト指向のリ・オリエンテーション～歴史を振り返り、AI時代に向きなおる～ - Speaker Deck
-
 - **URL:** [オブジェクト指向のリ・オリエンテーション～歴史を振り返り、AI時代に向きなおる～ - Speaker Deck](https://speakerdeck.com/hanyudaeiiti/obuziekutozhi-xiang-noriorientesiyon-li-shi-wozhen-rifan-ri-aishi-dai-nixiang-kinaoru?slide=31)
 - **著者:** 羽生田栄一 (@HHany)
 - **公開日:** 2024-03-29

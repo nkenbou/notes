@@ -1,5 +1,5 @@
 ---
-title: "プロダクトマネージャーの必須スキル: デザインドックの書き方 - Design Doc｜kosuke mori"
+title: "読書メモ: プロダクトマネージャーの必須スキル: デザインドックの書き方 - Design Doc｜kosuke mori"
 created: 2022-06-18
 modified: 2022-06-18
 permalink: 5e554db1f54f
@@ -11,8 +11,6 @@ URL: https://note.com/kosukemori/n/n968cd16c53eb
 開始日:
 終了日:
 ---
-# 読書メモ: プロダクトマネージャーの必須スキル: デザインドックの書き方 - Design Doc｜kosuke mori
-
 - **URL:** [プロダクトマネージャーの必須スキル: デザインドックの書き方 - Design Doc｜kosuke mori](https://note.com/kosukemori/n/n968cd16c53eb)
 - **著者:** @monarch_money
 - **公開日:** 2022-06-18

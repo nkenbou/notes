@@ -1,5 +1,5 @@
 ---
-title: "仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal - Speaker Deck"
+title: "読書メモ: 仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal - Speaker Deck"
 created: 2024-09-23
 modified: 2024-09-23
 permalink: f9b182c397d3
@@ -12,8 +12,6 @@ URL: https://speakerdeck.com/soudai/aim-for-the-goal
 開始日:
 終了日:
 ---
-# 読書メモ: 仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal - Speaker Deck
-
 - **URL:** [仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal - Speaker Deck](https://speakerdeck.com/soudai/aim-for-the-goal)
 - **著者:** 曽根 壮大 (@soudai1025)
 - **公開日:** 2024-09-23

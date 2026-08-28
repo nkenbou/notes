@@ -1,5 +1,5 @@
 ---
-title: "データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey"
+title: "読書メモ: データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey"
 created: 2022-07-28
 modified: 2022-07-28
 permalink: 5b8ed2ccb44b
@@ -13,8 +13,6 @@ URL: https://agilejourney.uzabase.com/entry/2022/07/28/103000
 開始日:
 終了日:
 ---
-# 読書メモ: データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey
-
 - **URL:** [データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey](https://agilejourney.uzabase.com/entry/2022/07/28/103000)
 - **著者:** 曽根 壮大 (@soudai1025)
 - **公開日:** 2022-07-28

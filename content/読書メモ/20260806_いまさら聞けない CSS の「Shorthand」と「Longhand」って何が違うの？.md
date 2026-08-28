@@ -1,5 +1,5 @@
 ---
-title: "いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？"
+title: "読書メモ: いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？"
 created: 2026-08-06
 modified: 2026-08-06
 permalink: 7a713fa504bf
@@ -12,8 +12,6 @@ URL: https://blog.sakupi01.com/dev/articles/demystify-css-shorthand-longhand-pro
 開始日: 2026-08-06
 終了日: 2026-08-06
 ---
-# 読書メモ: いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？
-
 - **URL:** [いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？](https://blog.sakupi01.com/dev/articles/demystify-css-shorthand-longhand-properties)
 - **著者:** saku (@sakupi01)
 - **公開日:** 2026-07-28

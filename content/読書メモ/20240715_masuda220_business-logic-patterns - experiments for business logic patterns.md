@@ -1,5 +1,5 @@
 ---
-title: "Business Logic Patterns"
+title: "読書メモ: Business Logic Patterns"
 created: 2024-07-15
 modified: 2024-07-15
 permalink: d14623f19d77
@@ -13,8 +13,6 @@ URL: https://github.com/masuda220/business-logic-patterns
 開始日:
 終了日:
 ---
-# 読書メモ: Business Logic Patterns
-
 - **URL:** [Business Logic Patterns](https://github.com/masuda220/business-logic-patterns)
 - **著者:** 増田亨 (@masuda220)
 - **公開日:** 2024-07-15

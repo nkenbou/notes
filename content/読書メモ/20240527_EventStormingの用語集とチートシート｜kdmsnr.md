@@ -1,5 +1,5 @@
 ---
-title: "EventStormingの用語集とチートシート｜kdmsnr"
+title: "読書メモ: EventStormingの用語集とチートシート｜kdmsnr"
 created: 2024-05-27
 modified: 2024-05-27
 permalink: 67633a5d69c5
@@ -11,8 +11,6 @@ URL: https://note.com/kdmsnr/n/n6f36fab7914b?sub_rt=share_pb
 開始日:
 終了日:
 ---
-# 読書メモ: EventStormingの用語集とチートシート｜kdmsnr
-
 - **URL:** [EventStormingの用語集とチートシート｜kdmsnr](https://note.com/kdmsnr/n/n6f36fab7914b?sub_rt=share_pb)
 - **著者:** @kdmsnr
 - **公開日:** 2024-05-27

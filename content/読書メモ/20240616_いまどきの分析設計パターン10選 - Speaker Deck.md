@@ -1,5 +1,5 @@
 ---
-title: "いまどきの分析設計パターン10選 - Speaker Deck"
+title: "読書メモ: いまどきの分析設計パターン10選 - Speaker Deck"
 created: 2024-06-16
 modified: 2024-06-16
 permalink: a6d165f36483
@@ -13,8 +13,6 @@ URL: https://speakerdeck.com/masuda220/jjug_ccc_2024_spring
 開始日:
 終了日:
 ---
-# 読書メモ: いまどきの分析設計パターン10選 - Speaker Deck
-
 - **URL:** [いまどきの分析設計パターン10選 - Speaker Deck](https://speakerdeck.com/masuda220/jjug_ccc_2024_spring)
 - **著者:** 増田亨 (@masuda220)
 - **公開日:** 2024-06-16

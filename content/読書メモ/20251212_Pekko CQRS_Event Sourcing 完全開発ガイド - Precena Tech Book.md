@@ -1,5 +1,5 @@
 ---
-title: "Pekko CQRS/Event Sourcing 完全開発ガイド - Precena Tech Book"
+title: "読書メモ: Pekko CQRS/Event Sourcing 完全開発ガイド - Precena Tech Book"
 created: 2025-12-12
 modified: 2025-12-12
 permalink: 628352572145
@@ -12,8 +12,6 @@ URL: https://tech-book.precena.co.jp/entry/pekko-cqrs-es-guide
 開始日: 2025-12-12
 終了日: 2025-12-12
 ---
-# 読書メモ: Pekko CQRS/Event Sourcing 完全開発ガイド - Precena Tech Book
-
 - **URL:** [Pekko CQRS/Event Sourcing 完全開発ガイド - Precena Tech Book](https://tech-book.precena.co.jp/entry/pekko-cqrs-es-guide)
 - **著者:** 加藤潤一 (
 @j5ik2o)

@@ -1,5 +1,5 @@
 ---
-title: "制約を設計する - 非決定性との境界線 / Designing constraints - Speaker Deck"
+title: "読書メモ: 制約を設計する - 非決定性との境界線 / Designing constraints - Speaker Deck"
 created: 2026-04-26
 modified: 2026-04-26
 permalink: ce874ed9d53d
@@ -11,9 +11,6 @@ URL: https://speakerdeck.com/soudai/designing-constraints?slide=59
 開始日: 2026-04-26
 終了日: 2026-04-26
 ---
-
-# 読書メモ: 制約を設計する - 非決定性との境界線 / Designing constraints - Speaker Deck
-
 - **URL:** [制約を設計する - 非決定性との境界線 / Designing constraints - Speaker Deck](https://speakerdeck.com/soudai/designing-constraints?slide=59)
 - **著者:** 曽根 壮大 (@soudai1025)
 - **公開日:** 2026-04-06

@@ -1,5 +1,5 @@
 ---
-title: "私が使っているObsidianのプラグイン | kdmsnr.com"
+title: "読書メモ: 私が使っているObsidianのプラグイン | kdmsnr.com"
 created: 2025-07-30
 modified: 2025-07-30
 permalink: 2dff0523e0ff
@@ -11,8 +11,6 @@ URL: https://kdmsnr.com/2025/07/30/1
 開始日:
 終了日:
 ---
-# 読書メモ: 私が使っているObsidianのプラグイン | kdmsnr.com
-
 - **URL:** [私が使っているObsidianのプラグイン | kdmsnr.com](https://kdmsnr.com/2025/07/30/1)
 - **著者:** @kdmsnr
 - **公開日:** 2025-07-30

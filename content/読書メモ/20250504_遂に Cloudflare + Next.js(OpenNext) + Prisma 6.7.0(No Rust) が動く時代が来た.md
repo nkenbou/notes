@@ -1,5 +1,5 @@
 ---
-title: "遂に Cloudflare + Next.js(OpenNext) + Prisma 6.7.0(No Rust) が動く時代が来た"
+title: "読書メモ: 遂に Cloudflare + Next.js(OpenNext) + Prisma 6.7.0(No Rust) が動く時代が来た"
 created: 2025-05-04
 modified: 2025-05-04
 permalink: 6b1da5d318d7
@@ -13,8 +13,6 @@ URL: https://zenn.dev/mizchi/articles/cloudflare-opennext-prisma-no-rust
 開始日:
 終了日:
 ---
-# 読書メモ: 遂に Cloudflare + Next.js(OpenNext) + Prisma 6.7.0(No Rust) が動く時代が来た
-
 - **URL:** [遂に Cloudflare + Next.js(OpenNext) + Prisma 6.7.0(No Rust) が動く時代が来た](https://zenn.dev/mizchi/articles/cloudflare-opennext-prisma-no-rust)
 - **著者:** @mizchi
 - **公開日:** 2025-05-04

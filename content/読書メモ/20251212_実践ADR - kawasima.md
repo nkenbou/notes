@@ -1,5 +1,5 @@
 ---
-title: "実践ADR - kawasima"
+title: "読書メモ: 実践ADR - kawasima"
 created: 2025-12-12
 modified: 2025-12-12
 permalink: 97f41427ad7c
@@ -12,8 +12,6 @@ URL: https://scrapbox.io/kawasima/%E5%AE%9F%E8%B7%B5ADR
 開始日: 2025-12-12
 終了日: 2025-12-12
 ---
-# 読書メモ: 実践ADR - kawasima
-
 - **URL:** [実践ADR - kawasima](https://scrapbox.io/kawasima/%E5%AE%9F%E8%B7%B5ADR)
 - **著者:** 川島義隆 (@kawasima)
 

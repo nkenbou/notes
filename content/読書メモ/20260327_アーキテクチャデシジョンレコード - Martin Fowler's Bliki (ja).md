@@ -1,5 +1,5 @@
 ---
-title: "アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)"
+title: "読書メモ: アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)"
 created: 2026-03-27
 modified: 2026-03-27
 permalink: 0371ed444cfc
@@ -11,8 +11,6 @@ URL: https://bliki-ja.github.io/ArchitectureDecisionRecord
 開始日: 2026-03-24
 終了日: 2026-03-24
 ---
-# 読書メモ: アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)
-
 - **URL:** [アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)](https://bliki-ja.github.io/ArchitectureDecisionRecord)
 - **著者:** Martin Fowler (@martinfowler)
 - **公開日:** 2026-03-24

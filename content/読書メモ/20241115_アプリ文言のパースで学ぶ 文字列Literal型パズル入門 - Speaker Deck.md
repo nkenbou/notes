@@ -1,5 +1,5 @@
 ---
-title: "アプリ文言のパースで学ぶ 文字列Literal型パズル入門 - Speaker Deck"
+title: "読書メモ: アプリ文言のパースで学ぶ 文字列Literal型パズル入門 - Speaker Deck"
 created: 2024-11-15
 modified: 2024-11-15
 permalink: f04da0ec6509
@@ -13,8 +13,6 @@ URL: https://speakerdeck.com/sajikix/apuriwen-yan-nopasudexue-bu-wen-zi-lie-lite
 開始日:
 終了日:
 ---
-# 読書メモ: アプリ文言のパースで学ぶ 文字列Literal型パズル入門 - Speaker Deck
-
 - **URL:** [アプリ文言のパースで学ぶ 文字列Literal型パズル入門 - Speaker Deck](https://speakerdeck.com/sajikix/apuriwen-yan-nopasudexue-bu-wen-zi-lie-literalxing-pazururu-men)
 - **著者:** Saji (@sajikix
 )

@@ -1,5 +1,5 @@
 ---
-title: "position: fixedの基準を親要素にあわせる | @bc_rikko"
+title: "読書メモ: position: fixedの基準を親要素にあわせる | @bc_rikko"
 created: 2025-02-22
 modified: 2025-02-22
 permalink: 751567725071
@@ -12,8 +12,6 @@ URL: https://bcrikko.github.io/til/posts/2025-02-22/position-fixed/
 開始日:
 終了日:
 ---
-# 読書メモ: position: fixedの基準を親要素にあわせる | @bc_rikko
-
 - **URL:** [position: fixedの基準を親要素にあわせる | @bc_rikko](https://bcrikko.github.io/til/posts/2025-02-22/position-fixed/)
 - **著者:** ダーシノ (@bc_rikko)
 - **公開日:** 2025-02-22

@@ -1,5 +1,5 @@
 ---
-title: "How Google handles JavaScript throughout the indexing process - Vercel"
+title: "読書メモ: How Google handles JavaScript throughout the indexing process - Vercel"
 created: 2024-07-31
 modified: 2024-07-31
 permalink: d9375cba4bb0
@@ -12,8 +12,6 @@ URL: https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexi
 開始日:
 終了日:
 ---
-# 読書メモ: How Google handles JavaScript throughout the indexing process - Vercel
-
 - **URL:** [How Google handles JavaScript throughout the indexing process - Vercel](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 - **著者:** @Vercel
 - **公開日:** 2024-07-31

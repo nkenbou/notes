@@ -1,5 +1,5 @@
 ---
-title: "なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 - Speaker Deck"
+title: "読書メモ: なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 - Speaker Deck"
 created: 2026-01-27
 modified: 2026-01-27
 permalink: 0cb20cccffd3
@@ -11,8 +11,6 @@ URL: https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-ga
 開始日: 2026-01-27
 終了日: 2026-01-27
 ---
-# 読書メモ: なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 - Speaker Deck
-
 - **URL:** [なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 - Speaker Deck](https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti)
 - **著者:** kwahiro (hkws)
 - **公開日:** 2025-11-13

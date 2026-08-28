@@ -1,5 +1,5 @@
 ---
-title: "TypeScript による GraphQL バックエンド開発 - Speaker Deck"
+title: "読書メモ: TypeScript による GraphQL バックエンド開発 - Speaker Deck"
 created: 2022-10-14
 modified: 2022-10-14
 permalink: f50c15b97503
@@ -12,8 +12,6 @@ URL: https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75
 開始日:
 終了日:
 ---
-# 読書メモ: TypeScript による GraphQL バックエンド開発 - Speaker Deck
-
 - **URL:** [TypeScript による GraphQL バックエンド開発 - Speaker Deck](https://speakerdeck.com/naoya/typescript-niyoru-graphql-batukuendokai-fa-75b3dab7-90a8-4169-a4dc-d1e7410b9dbd?slide=91)
 - **著者:** 伊藤直也 (@naoya_ito)
 - **公開日:** 2022-10-14

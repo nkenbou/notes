@@ -1,5 +1,5 @@
 ---
-title: "minio/minio: The Object Store for AI Data Infrastructure"
+title: "読書メモ: minio/minio: The Object Store for AI Data Infrastructure"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: b5febaec1ca3
@@ -13,8 +13,6 @@ URL: https://github.com/minio/minio
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: minio/minio: The Object Store for AI Data Infrastructure
-
 - **URL:** [minio/minio: The Object Store for AI Data Infrastructure](https://github.com/minio/minio)
 
 ## いつ読むか？

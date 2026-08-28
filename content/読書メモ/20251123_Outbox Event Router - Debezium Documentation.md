@@ -1,5 +1,5 @@
 ---
-title: "Outbox Event Router :: Debezium Documentation"
+title: "読書メモ: Outbox Event Router :: Debezium Documentation"
 created: 2025-11-23
 modified: 2025-11-23
 permalink: 81cb3f572816
@@ -12,8 +12,6 @@ URL: https://debezium.io/documentation/reference/stable/transformations/outbox-e
 開始日: 2025-11-23
 終了日:
 ---
-# 読書メモ: Outbox Event Router :: Debezium Documentation
-
 - **URL:** [Outbox Event Router :: Debezium Documentation](https://debezium.io/documentation/reference/stable/transformations/outbox-event-router.html#emitting-messages-with-additional-fields)
 - **著者:** @Debezium
 
