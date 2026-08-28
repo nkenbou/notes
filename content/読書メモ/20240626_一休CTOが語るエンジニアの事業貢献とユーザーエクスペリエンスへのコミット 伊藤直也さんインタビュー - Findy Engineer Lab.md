@@ -1,4 +1,7 @@
 ---
+title: "一休CTOが語るエンジニアの事業貢献とユーザーエクスペリエンスへのコミット 伊藤直也さんインタビュー - Findy Engineer Lab"
+created: 2024-06-26
+modified: 2024-06-26
 permalink: f27571d5af6c
 tags:
   - プロダクトマネジメント

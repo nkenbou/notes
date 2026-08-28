@@ -1,4 +1,7 @@
 ---
+title: "アプリ文言のパースで学ぶ 文字列Literal型パズル入門 - Speaker Deck"
+created: 2024-11-15
+modified: 2024-11-15
 permalink: f04da0ec6509
 tags:
   - TypeScript

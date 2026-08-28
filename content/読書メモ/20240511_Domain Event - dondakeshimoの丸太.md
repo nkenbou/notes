@@ -1,4 +1,7 @@
 ---
+title: "Domain Event | dondakeshimoの丸太"
+created: 2024-05-11
+modified: 2024-05-11
 permalink: 31bdf56a9a9e
 tags:
   - DDD

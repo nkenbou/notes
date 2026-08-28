@@ -1,4 +1,7 @@
 ---
+title: "react-to-web-component を使って React コンポーネントを Web Components に変換する"
+created: 2024-10-20
+modified: 2024-10-20
 permalink: d6911bbb4448
 tags:
   - react-to-web-component

@@ -1,4 +1,7 @@
 ---
+title: "CSS Grid Areas"
+created: 2024-07-20
+modified: 2024-07-20
 permalink: 14de50a97b9a
 tags:
   - CSS

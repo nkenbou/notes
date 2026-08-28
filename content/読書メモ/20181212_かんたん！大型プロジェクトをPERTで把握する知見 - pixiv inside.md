@@ -1,4 +1,7 @@
 ---
+title: "かんたん！大型プロジェクトをPERTで把握する知見 - pixiv inside"
+created: 2018-12-12
+modified: 2018-12-12
 permalink: 2be464e57f7c
 tags:
   - PERT

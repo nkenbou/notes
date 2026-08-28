@@ -1,4 +1,7 @@
 ---
+title: "制約を設計する - 非決定性との境界線 / Designing constraints - Speaker Deck"
+created: 2026-04-26
+modified: 2026-04-26
 permalink: ce874ed9d53d
 tags:
   - AIコーディング

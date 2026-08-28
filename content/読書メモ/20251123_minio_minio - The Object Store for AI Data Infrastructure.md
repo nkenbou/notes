@@ -1,4 +1,7 @@
 ---
+title: "minio/minio: The Object Store for AI Data Infrastructure"
+created: 2025-11-23
+modified: 2025-11-23
 permalink: b5febaec1ca3
 tags:
   - minio

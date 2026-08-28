@@ -1,4 +1,7 @@
 ---
+title: "DCI アーキテクチャ - Trygve Reenskaug and James O. Coplien - Digital Romanticism"
+created: 2010-01-31
+modified: 2010-01-31
 permalink: d2cf8ecf3496
 tags:
   - DCI

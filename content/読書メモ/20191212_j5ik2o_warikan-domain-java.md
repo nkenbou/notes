@@ -1,4 +1,7 @@
 ---
+title: "飲み会の割り勘ドメイン"
+created: 2019-12-12
+modified: 2019-12-12
 permalink: 180bda2c4de5
 tags:
   - DDD

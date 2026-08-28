@@ -1,4 +1,7 @@
 ---
+title: "HTML だけで Shadow DOM を構築するための宣言型 Shadow DOM"
+created: 2024-10-19
+modified: 2024-10-19
 permalink: 1d687f509d8d
 tags:
   - ShadowDOM

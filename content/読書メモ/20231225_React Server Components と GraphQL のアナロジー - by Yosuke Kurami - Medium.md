@@ -1,4 +1,7 @@
 ---
+title: "React Server Components と GraphQL のアナロジー | by Yosuke Kurami | Medium"
+created: 2023-12-25
+modified: 2023-12-25
 permalink: 73c2367f7c49
 tags:
   - React

@@ -1,4 +1,7 @@
 ---
+title: "position: fixedの基準を親要素にあわせる | @bc_rikko"
+created: 2025-02-22
+modified: 2025-02-22
 permalink: 751567725071
 tags:
   - CSS

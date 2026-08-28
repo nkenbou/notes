@@ -1,4 +1,7 @@
 ---
+title: "上司と親方の違い、徒弟制度の再発明でプログラマ育成 – Social Change!"
+created: 2024-06-13
+modified: 2024-06-13
 permalink: 1a3896970c1a
 tags:
   - チームビルディング

@@ -1,4 +1,7 @@
 ---
+title: "Amazon MSKを用いてMySQLに対してChange Data Captureを実現する - ZOZO TECH BLOG"
+created: 2023-09-05
+modified: 2023-09-05
 permalink: c007dd91e24f
 tags:
   - EventSourcing

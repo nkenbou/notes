@@ -1,4 +1,7 @@
 ---
+title: "AIエージェント時代のテスト駆動開発（TDD） - Agile Journey"
+created: 2025-08-29
+modified: 2025-08-29
 permalink: 412cc81ca119
 tags:
   - AIコーディング

@@ -1,4 +1,7 @@
 ---
+title: "TypeScript におけるモジュール関連オプションの整理. TypeScript 4.7 で “module” という名前で始まる… | by Yosuke Kurami | Medium"
+created: 2022-05-09
+modified: 2022-05-09
 permalink: dd82529b741c
 tags:
   - TypeScript

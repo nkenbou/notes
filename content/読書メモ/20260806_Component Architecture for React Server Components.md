@@ -1,4 +1,7 @@
 ---
+title: "Component Architecture for React Server Components"
+created: 2026-08-06
+modified: 2026-08-06
 permalink: 59cf676dc1cd
 tags:
   - React

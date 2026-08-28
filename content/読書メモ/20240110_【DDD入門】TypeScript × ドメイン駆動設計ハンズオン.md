@@ -1,4 +1,7 @@
 ---
+title: "【DDD入門】TypeScript × ドメイン駆動設計ハンズオン"
+created: 2024-01-10
+modified: 2024-01-10
 permalink: 65ac5a89a154
 tags:
   - DDD

@@ -1,4 +1,7 @@
 ---
+title: "Ports & Adapters パターン：Hexagonal Architecture Explained を手元に"
+created: 2025-10-04
+modified: 2025-10-04
 permalink: fdc057ff5315
 tags:
   - PortsAndAdapters

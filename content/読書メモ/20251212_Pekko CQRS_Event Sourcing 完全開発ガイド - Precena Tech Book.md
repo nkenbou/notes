@@ -1,4 +1,7 @@
 ---
+title: "Pekko CQRS/Event Sourcing 完全開発ガイド - Precena Tech Book"
+created: 2025-12-12
+modified: 2025-12-12
 permalink: 628352572145
 tags:
   - CQRS

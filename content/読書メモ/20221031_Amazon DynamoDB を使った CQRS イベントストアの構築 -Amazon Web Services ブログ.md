@@ -1,4 +1,7 @@
 ---
+title: "Amazon DynamoDB を使った CQRS イベントストアの構築 | Amazon Web Services ブログ"
+created: 2022-10-31
+modified: 2022-10-31
 permalink: 09c758b6dd29
 tags:
   - EventSourcing

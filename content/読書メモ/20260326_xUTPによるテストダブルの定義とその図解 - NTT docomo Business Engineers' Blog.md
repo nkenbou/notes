@@ -1,4 +1,7 @@
 ---
+title: "xUTPによるテストダブルの定義とその図解 - NTT docomo Business Engineers' Blog"
+created: 2026-03-26
+modified: 2026-03-26
 permalink: bbf791c403d4
 tags:
   - TDD
