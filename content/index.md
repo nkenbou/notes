@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: "nkenbou の公開ノート"
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [[TDD 関連のリンク集]]
