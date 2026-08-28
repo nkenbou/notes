@@ -1,0 +1,4 @@
+[tools]
+# Quartz v5 の engines は node >=22 / npm >=10.9.2
+# 公式ホスティング手順・CI ともに Node 24 を使うのでそれに合わせる
+node = "24"
