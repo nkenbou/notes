@@ -4,7 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: google
+    tagId: G-J0PPL657ZY
   locale: ja-JP
   baseUrl: notes.nkenbou.me
   ignorePatterns:
