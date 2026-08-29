@@ -2,7 +2,6 @@
 title: "読書メモ: データベース設計の基本とアジャイル開発 - そーだいが解説する変化に対応する実装 - Agile Journey"
 created: 2022-07-28
 modified: 2022-07-28
-permalink: 5b8ed2ccb44b
 tags:
   - データモデリング
   - データベース正規化

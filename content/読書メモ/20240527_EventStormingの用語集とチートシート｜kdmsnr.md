@@ -2,7 +2,6 @@
 title: "読書メモ: EventStormingの用語集とチートシート｜kdmsnr"
 created: 2024-05-27
 modified: 2024-05-27
-permalink: 67633a5d69c5
 tags:
   - EventStorming
 URL: https://note.com/kdmsnr/n/n6f36fab7914b?sub_rt=share_pb

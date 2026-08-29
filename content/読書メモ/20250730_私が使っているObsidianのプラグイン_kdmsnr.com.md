@@ -2,7 +2,6 @@
 title: "読書メモ: 私が使っているObsidianのプラグイン | kdmsnr.com"
 created: 2025-07-30
 modified: 2025-07-30
-permalink: 2dff0523e0ff
 tags:
   - Obsidian
 URL: https://kdmsnr.com/2025/07/30/1

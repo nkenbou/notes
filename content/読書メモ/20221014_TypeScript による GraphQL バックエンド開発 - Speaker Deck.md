@@ -2,7 +2,6 @@
 title: "読書メモ: TypeScript による GraphQL バックエンド開発 - Speaker Deck"
 created: 2022-10-14
 modified: 2022-10-14
-permalink: f50c15b97503
 tags:
   - TypeScript
   - BrandedTypes

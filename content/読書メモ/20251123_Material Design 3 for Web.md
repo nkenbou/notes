@@ -2,7 +2,6 @@
 title: "読書メモ: Material Design 3 for Web"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: a67224fd66da
 tags:
   - WebComponents
   - MaterialDesign

@@ -1,6 +1,5 @@
 ---
 title: "Lucide スタイルのオリジナルアイコンを Figma MCP と Claude で作る"
-permalink: a3f8c2d91e7b
 created: 2026-03-31
 modified: 2026-03-31
 tags:

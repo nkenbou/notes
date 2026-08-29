@@ -2,7 +2,6 @@
 title: "読書メモ: 複雑さを分解するためのドメインモデル"
 created: 2022-07-11
 modified: 2022-07-11
-permalink: 920ac7a1d653
 tags:
   - オブジェクト指向
   - DDD

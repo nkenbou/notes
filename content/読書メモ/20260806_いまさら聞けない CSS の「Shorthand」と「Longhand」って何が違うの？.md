@@ -2,7 +2,6 @@
 title: "読書メモ: いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？"
 created: 2026-08-06
 modified: 2026-08-06
-permalink: 7a713fa504bf
 tags:
   - CSS
   - フロントエンド

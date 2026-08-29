@@ -2,7 +2,6 @@
 title: "読書メモ: Introduction to Event Sourcing | Kurrent"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: 553a5b6df15c
 tags:
   - EventSourcing
   - CQRS

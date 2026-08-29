@@ -2,7 +2,6 @@
 title: "読書メモ: Parse, don’t validate"
 created: 2019-11-05
 modified: 2019-11-05
-permalink: c9c6d640bf98
 tags:
   - プログラミング作法
   - 契約による設計

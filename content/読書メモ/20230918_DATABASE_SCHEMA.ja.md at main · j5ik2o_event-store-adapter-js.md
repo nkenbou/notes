@@ -2,7 +2,6 @@
 title: "読書メモ: EventStoreが利用するDynamoDBのテーブル構成"
 created: 2023-09-18
 modified: 2023-09-18
-permalink: 1ca321c3e9db
 tags:
   - EventSourcing
   - データモデリング

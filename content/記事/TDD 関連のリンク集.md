@@ -1,6 +1,5 @@
 ---
 title: "TDD 関連のリンク集"
-permalink: cdcccea63dbe
 created: 2026-03-02
 modified: 2026-03-18
 tags:

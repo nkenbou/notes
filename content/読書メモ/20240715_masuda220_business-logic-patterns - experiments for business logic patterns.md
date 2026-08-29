@@ -2,7 +2,6 @@
 title: "読書メモ: Business Logic Patterns"
 created: 2024-07-15
 modified: 2024-07-15
-permalink: d14623f19d77
 tags:
   - DDD
   - オブジェクト指向

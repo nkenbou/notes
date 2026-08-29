@@ -2,7 +2,6 @@
 title: "読書メモ: Skills | j5ik2o/okite-ai"
 created: 2026-05-20
 modified: 2026-05-20
-permalink: dfd33499b5be
 tags:
   - DDD
   - ソフトウェア設計

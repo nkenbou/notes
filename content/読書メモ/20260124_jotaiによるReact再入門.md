@@ -2,7 +2,6 @@
 title: "読書メモ: jotaiによるReact再入門"
 created: 2026-01-24
 modified: 2026-01-24
-permalink: 29dbcc89d579
 tags:
   - React
   - jotai

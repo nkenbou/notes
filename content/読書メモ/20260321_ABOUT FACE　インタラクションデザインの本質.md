@@ -2,7 +2,6 @@
 title: "読書メモ: ABOUT FACE　インタラクションデザインの本質"
 created: 2026-03-21
 modified: 2026-03-21
-permalink: b15a721e90fe
 tags:
   - デザイン
   - UI

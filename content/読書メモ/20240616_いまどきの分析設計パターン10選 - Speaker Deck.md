@@ -2,7 +2,6 @@
 title: "読書メモ: いまどきの分析設計パターン10選 - Speaker Deck"
 created: 2024-06-16
 modified: 2024-06-16
-permalink: a6d165f36483
 tags:
   - DDD
   - オブジェクト指向

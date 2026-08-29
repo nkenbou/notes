@@ -2,7 +2,6 @@
 title: "読書メモ: アーキテクチャデシジョンレコード - Martin Fowler's Bliki (ja)"
 created: 2026-03-27
 modified: 2026-03-27
-permalink: 0371ed444cfc
 tags:
   - ADR
 URL: https://bliki-ja.github.io/ArchitectureDecisionRecord

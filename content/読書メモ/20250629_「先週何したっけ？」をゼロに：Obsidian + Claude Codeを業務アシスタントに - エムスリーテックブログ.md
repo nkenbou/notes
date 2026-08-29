@@ -2,7 +2,6 @@
 title: "読書メモ: 「先週何したっけ？」をゼロに：Obsidian + Claude Codeを業務アシスタントに - エムスリーテックブログ"
 created: 2025-06-29
 modified: 2025-06-29
-permalink: 099dd045dd52
 tags:
   - Obsidian
   - AI

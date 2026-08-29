@@ -2,7 +2,6 @@
 title: "読書メモ: Revisiting Domain Model"
 created: 2023-01-23
 modified: 2023-01-23
-permalink: d708fe348cba
 tags:
   - DDD
   - ドメインモデリング

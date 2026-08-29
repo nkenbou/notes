@@ -2,7 +2,6 @@
 title: "読書メモ: オブジェクト指向のリ・オリエンテーション～歴史を振り返り、AI時代に向きなおる～ - Speaker Deck"
 created: 2024-03-29
 modified: 2024-03-29
-permalink: 9776d3d9eec8
 tags:
   - オブジェクト指向
   - ドメインモデリング

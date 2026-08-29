@@ -2,7 +2,6 @@
 title: "読書メモ: JavaScriptのモジュールを動的に定義する方法 - Qiita"
 created: 2023-03-12
 modified: 2023-03-12
-permalink: 6caa2973e505
 tags:
   - JavaScript
 URL: https://qiita.com/suin/items/427d11ca9da397c52520

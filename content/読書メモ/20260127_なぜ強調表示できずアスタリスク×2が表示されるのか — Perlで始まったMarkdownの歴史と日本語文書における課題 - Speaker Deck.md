@@ -2,7 +2,6 @@
 title: "読書メモ: なぜ強調表示できず ** が表示されるのか — Perlで始まったMarkdownの歴史と日本語文書における課題 - Speaker Deck"
 created: 2026-01-27
 modified: 2026-01-27
-permalink: 0cb20cccffd3
 tags:
   - Markdown
 URL: https://speakerdeck.com/kwahiro/nazeqiang-diao-biao-shi-dekizu-star-star-gabiao-shi-sarerunoka-perldeshi-matutamarkdownnoli-shi-tori-ben-yu-wen-shu-niokeruke-ti

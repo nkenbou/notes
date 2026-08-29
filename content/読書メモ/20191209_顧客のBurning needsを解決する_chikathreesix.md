@@ -2,7 +2,6 @@
 title: "読書メモ: 顧客のBurning needsを解決する | chikathreesix"
 created: 2019-12-09
 modified: 2019-12-09
-permalink: fffef4570fe3
 tags:
   - プロダクトマネジメント
   - プロダクト開発

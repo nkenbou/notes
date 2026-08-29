@@ -2,7 +2,6 @@
 title: "読書メモ: Domain-Driven Hexagon"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: 3ca5843fab1f
 tags:
   - PortsAndAdapters
 URL: https://github.com/Sairyss/domain-driven-hexagon

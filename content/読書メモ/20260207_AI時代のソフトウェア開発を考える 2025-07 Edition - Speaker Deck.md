@@ -2,7 +2,6 @@
 title: "読書メモ: AI時代のソフトウェア開発を考える（2025/07版） / Agentic Software Engineering Findy 2025-07 Edition - Speaker Deck"
 created: 2026-02-07
 modified: 2026-02-07
-permalink: 32a548a3be5f
 tags:
   - AIコーディング
 URL: https://speakerdeck.com/twada/agentic-software-engineering-findy-2025-07-edition

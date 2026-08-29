@@ -2,7 +2,6 @@
 title: "読書メモ: Outbox Event Router :: Debezium Documentation"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: 81cb3f572816
 tags:
   - EventSourcing
   - Debezium

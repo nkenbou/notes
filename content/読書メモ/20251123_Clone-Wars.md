@@ -2,7 +2,6 @@
 title: "読書メモ: Clone-Wars"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: a483c7a58600
 tags:
   - プロダクト開発
 URL: https://github.com/GorvGoyl/clone-wars

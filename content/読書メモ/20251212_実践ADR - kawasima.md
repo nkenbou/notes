@@ -2,7 +2,6 @@
 title: "読書メモ: 実践ADR - kawasima"
 created: 2025-12-12
 modified: 2025-12-12
-permalink: 97f41427ad7c
 tags:
   - markdown-rs
   - ドキュメント

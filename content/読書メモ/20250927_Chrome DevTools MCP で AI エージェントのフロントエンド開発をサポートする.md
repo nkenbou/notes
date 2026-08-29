@@ -2,7 +2,6 @@
 title: "読書メモ: Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする"
 created: 2025-09-27
 modified: 2025-09-27
-permalink: 296f1960ee9a
 tags:
   - MCP
   - ChromeDevTools

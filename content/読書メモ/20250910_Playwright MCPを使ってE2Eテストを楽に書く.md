@@ -2,7 +2,6 @@
 title: "読書メモ: Playwright MCPを使ってE2Eテストを楽に書く"
 created: 2025-09-10
 modified: 2025-09-10
-permalink: 30064f4989f8
 tags:
   - Playwright
   - MCP

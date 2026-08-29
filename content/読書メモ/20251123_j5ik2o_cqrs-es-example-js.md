@@ -2,7 +2,6 @@
 title: "読書メモ: j5ik2o/cqrs-es-example-js"
 created: 2025-11-23
 modified: 2025-11-23
-permalink: f5c5a9c3bcb5
 tags:
 URL: https://github.com/j5ik2o/cqrs-es-example-js
 著者: "加藤潤一 (\r@j5ik2o)"

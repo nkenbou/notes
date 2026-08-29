@@ -2,7 +2,6 @@
 title: "読書メモ: 仕事を前に進めるためのコツ - 判断と決断と共有 / Aim for the goal - Speaker Deck"
 created: 2024-09-23
 modified: 2024-09-23
-permalink: f9b182c397d3
 tags:
   - プロジェクトマネジメント
   - チームビルディング
