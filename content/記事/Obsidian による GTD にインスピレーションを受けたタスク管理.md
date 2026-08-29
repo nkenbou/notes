@@ -1,6 +1,8 @@
 ---
 title: "Obsidian による GTD にインスピレーションを受けたタスク管理"
 permalink: 23a43d465cc1
+created: 2026-02-16
+modified: 2026-02-16
 tags:
   - Obsidian
 ---

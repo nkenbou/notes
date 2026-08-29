@@ -1,6 +1,8 @@
 ---
 title: "CommonJS → ESM 移行ガイド"
 permalink: 7913d630a3e4
+created: 2026-02-28
+modified: 2026-03-01
 tags:
   - NextJS
   - CommonJS

@@ -1,6 +1,8 @@
 ---
 title: "eslint-plugin-import-access で外部パッケージからの import を制御できるか調査"
 permalink: 665da73517c2
+created: 2026-02-28
+modified: 2026-02-28
 tags:
   - eslint-plugin-import-access
   - Turborepo
